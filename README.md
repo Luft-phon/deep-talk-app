@@ -4,25 +4,20 @@
 
  <details>
    <summary align="center">VIEW MORE PHOTOS HERE</summary>
-    <img alt="Fav Icon Png" src="https://github.com/Luft-phon/badminton-system-frontend-customer/blob/main/badminton-management-system/photos/github-about.jpg" />
-   <img alt="Fav Icon Png" src="https://github.com/Luft-phon/badminton-system-frontend-customer/blob/main/badminton-management-system/photos/github-lessons.jpg"/>
-   <img alt="Fav Icon Png" src="https://github.com/Luft-phon/badminton-system-frontend-customer/blob/main/badminton-management-system/photos/github-contact.jpg"/>
-  <img alt="Fav Icon Png" src="https://github.com/Luft-phon/badminton-system-frontend-customer/blob/main/badminton-management-system/photos/github-login.jpg"/>
+    <img alt="Fav Icon Png" src="https://github.com/Luft-phon/deep-talk-app/blob/main/src/photo/concept1.jpg" />
+   <img alt="Fav Icon Png" src="https://github.com/Luft-phon/deep-talk-app/blob/main/src/photo/concept2.jpg"/>
+   <img alt="Fav Icon Png" src="https://github.com/Luft-phon/deep-talk-app/blob/main/src/photo/concept3.jpg"/>
  </details>
 
 ## 🌐  What is this website?
-This website is a modern landing page for a badminton court booking system. It allows players to:
-- 📅 Easily book courts online<br>
-- 📍 Explore available time slots & locations
-- 🧾 View pricing, rules, and special event options
-- 👤 Sign in to manage bookings
-- 📸 Learn about the court facilities through visuals and descriptions 
+This website gives users opportunity to explore emotional depth with the one you love. This app offers layered questions, like an iceberg — starting from the light and simple, and gradually diving into the meaningful and hard to say. Every swipe is a chance to listen. Every moment, a deeper connection. Because the most important things… are often hidden beneath the surface. ✨
 
-## ⭐ Technology
+## ⚝ Technology
 - React 18
 - Vite
 - React Libraries (React Router, React Awesome Reveal, React Icons, ... )
-- UI Library (Redix)
+- UI Library (Reactbits)
+- 
 
 ## 📌 Prerequisite
 - VS Studio Code
@@ -32,17 +27,13 @@ This website is a modern landing page for a badminton court booking system. It a
 ## 🛠 Installation & setup
 1. Clone this repository
 ```
-git clone https://github.com/Luft-phon/badminton-system-frontend-customer.git
+https://github.com/Luft-phon/deep-talk-app.git
 ```
-2. Navigate to the project directory
-```
-cd badminton-management-system
-```
-3. Install the dependencies using npm
+2. Install the dependencies using npm
 ```
 npm install
 ```
-4. Run the production
+3. Run the production
 ```
 npm run dev
 ```
