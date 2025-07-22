@@ -17,7 +17,7 @@ This website gives users opportunity to explore emotional depth with the one you
 - Vite
 - React Libraries (React Router, React Awesome Reveal, React Icons, ... )
 - UI Library (Reactbits)
-- 
+- Parallax Scrolling Effect
 
 ## 📌 Prerequisite
 - VS Studio Code
