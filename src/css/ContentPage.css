@@ -1,0 +1,71 @@
+.content-container {
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+
+.iceberg {
+  background-image: url("../photo/iceberg.jpg");
+}
+
+.surface {
+  margin-top: 20vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  padding: 0 20px;
+  font-family: var(--heading);
+}
+
+.blurText {
+  font-size: 3em;
+  font-weight: 500;
+}
+
+.surface-content,
+.deep-content {
+  font-size: 1.5em;
+  font-family: var(--content);
+}
+
+
+
+.beneathText {
+    margin-top: 40vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 25px;
+  padding: 0 20px;
+
+}
+
+.btn{
+  background-color: white;
+  border: none;
+  transition: .2s ease-in-out;
+  font-family: var(--content);
+}
+.btn:hover{
+  transform: scale(1.025);
+}
+
+.btn a {
+  color: black;
+}
+
+.deep {
+   margin-top: 35vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  padding: 0 20px;
+  font-family: var(--heading);
+
+}

@@ -1,0 +1,11 @@
+.case-container {
+    height: 100vh;
+}
+
+.carousel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    
+}
