@@ -6,8 +6,7 @@ function BeneathPage() {
     { img: "./src/photo/ribben.png", content: 'Rate 5 "Love Languages"\n: Physical touch,\nAct of Service,\nWords of Affirmation,\nGifts ' },
     { img: "./src/photo/kiss.jpg", content: 'Tell 3 reasons why someone would want to live with you for the rest of their life and reverse' },
     { img: "./src/photo/flower.png", content: "What means the most to you that you're grateful for?" },
-    { img: "./src/photo/lover.png", content: "What are you most proud of about your partner?" },
-    { img: "", content: "What are you most insecure about?" }
+    { img: "./src/photo/lover.png", content: "What are you most proud of about your partner?" }
   ];
     return (
         <div className="opening-container">
