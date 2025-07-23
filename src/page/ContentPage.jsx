@@ -1,7 +1,6 @@
 import "../css/ContentPage.css";
 import { Parallax, ParallaxLayer } from "@react-spring/parallax";
-import iceberg from '../photo/iceberg.jpg'
-import beach from '../photo/beach.png'
+import iceberg from '/photo/iceberg.jpg'
 import TrueFocusText from "../component/TrueFocus";
 import SplashCursor from '../Reactbits/SplashCursor/SplashCursor'
 import BlurSurfaceText from "../component/BlurText";
