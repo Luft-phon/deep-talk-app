@@ -1,6 +1,6 @@
 <h1 align="center"> ❤️ Deep Talk App </h1>
 <p align="center">A modern solution for professionally showcasing skills, projects, and experience. Built with React.js.</p>
- <img alt="Fav Icon Png" src="https://github.com/Luft-phon/badminton-system-frontend-customer/blob/main/badminton-management-system/photos/github-photos.jpg"/>
+ <img alt="Fav Icon Png" src="https://github.com/Luft-phon/deep-talk-app/blob/main/src/photo/index.jpg"/>
 
  <details>
    <summary align="center">VIEW MORE PHOTOS HERE</summary>
