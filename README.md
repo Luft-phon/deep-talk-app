@@ -1,12 +1,12 @@
 <h1 align="center"> ❤️ Deep Talk App </h1>
 <p align="center">A modern solution for professionally showcasing skills, projects, and experience. Built with React.js.</p>
- <img alt="Fav Icon Png" src="https://github.com/Luft-phon/deep-talk-app/blob/main/src/photo/index.jpg"/>
+ <img alt="Fav Icon Png" src="https://github.com/Luft-phon/deep-talk-app/blob/main/public/photo/index.jpg"/>
 
  <details>
    <summary align="center">VIEW MORE PHOTOS HERE</summary>
-    <img alt="Fav Icon Png" src="https://github.com/Luft-phon/deep-talk-app/blob/main/src/photo/concept1.jpg" />
-   <img alt="Fav Icon Png" src="https://github.com/Luft-phon/deep-talk-app/blob/main/src/photo/concept2.jpg"/>
-   <img alt="Fav Icon Png" src="https://github.com/Luft-phon/deep-talk-app/blob/main/src/photo/concept3.jpg"/>
+    <img alt="Fav Icon Png" src="https://github.com/Luft-phon/deep-talk-app/blob/main/public/photo/concept1.jpg" />
+   <img alt="Fav Icon Png" src="https://github.com/Luft-phon/deep-talk-app/blob/main/public/photo/concept2.jpg"/>
+   <img alt="Fav Icon Png" src="https://github.com/Luft-phon/deep-talk-app/blob/main/public/photo/concept3.jpg"/>
  </details>
 
 ## 🌐  What is this website?
